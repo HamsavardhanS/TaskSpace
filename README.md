@@ -32,7 +32,7 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/taskspace.git
+    git clone https://github.com/HamsavardhanS/TaskSpace.git
     cd taskspace
     ```
 
