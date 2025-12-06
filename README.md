@@ -62,7 +62,6 @@
 ## 📦 Deployment
 
 This app is optimized for deployment on **Vercel**.
-See [deploy.md](./deploy.md) for a detailed step-by-step guide.
 
 ## 🤝 Contributing
 
